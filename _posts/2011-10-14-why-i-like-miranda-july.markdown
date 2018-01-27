@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I like Miranda July"
 date:   2011-10-14 10:38:42 +0000
-categories: reading new-yorker stories
+categories: writing reading stories
 ---
 
 Miranda July is one of my favourite writers. Her writing is invariably funny and disarming&#8211; she writes with a light touch as if her purpose is to do nothing more than give you a little peek into her way of living.

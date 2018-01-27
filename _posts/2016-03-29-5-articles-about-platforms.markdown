@@ -2,7 +2,7 @@
 layout: post
 title:  "5 articles that shaped my thinking about platform as a service"
 date:   2016-03-29 10:38:42 +0000
-categories: platform cloud tech
+categories: writing platform tech
 ---
 
 (cross posted on <a href="https://blog.drie.co/5-articles-that-shaped-my-thinking-about-platform-as-a-service-88480dab4ed5">the drie blog</a>)
