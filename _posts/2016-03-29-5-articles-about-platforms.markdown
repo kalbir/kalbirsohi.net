@@ -5,7 +5,7 @@ date:   2016-03-29 10:38:42 +0000
 categories: platform cloud tech
 ---
 
-(cross posted <a href="https://blog.drie.co/5-articles-that-shaped-my-thinking-about-platform-as-a-service-88480dab4ed5">the drie blog</a>)
+(cross posted on <a href="https://blog.drie.co/5-articles-that-shaped-my-thinking-about-platform-as-a-service-88480dab4ed5">the drie blog</a>)
 
 Here at <a href="http://drie.co">drie</a> we think that platform as a service is genuinely effective as one tool in your toolkit for solving a wider business problem &#8212; how do I make the cost of IT change small.
 
