@@ -11,7 +11,7 @@ The ones I come back to most regularly are the programming language ones. You ca
 
 In the last year or so I've worked on projects in about 10 different programming languages, from [C][12] to [R][13]. It's so helpful use an awesome list to go an have a look at some key patterns, what the main web framework is, or what their equivalent of Ruby's [OmniAuth](https://github.com/omniauth/omniauth) is.
 
-They go waaaaay beyond that though. There are awesome lists for frameworks like [React][1], [Meteor][2], [Ember][3], etc, lists for [Machine Learning][4], [Cryptography][5], [Blockchain][6], lists for [Economics][7], [Neuroscience][8], [Design Principles][9], [Diversity][10], [Activism][11] -- pretty much anything you can think of!
+They go waaaaay beyond that though. There are awesome lists for frameworks like [React][1], [Meteor][2], [Ember][3], etc, lists for [Machine Learning][4], [Cryptography][5], [Blockchain][6], lists for [Economics][7], [Neuroscience][8], [Design Principles][9], [Diversity][10], [Activism][11]&#8212;pretty much anything you can think of!
 
 They err towards tools, programming and open source, and can be quite idiosyncratic depending on how they are put together. But they are incredibly useful ways of finding out how to get stuck into a new topic - I'd be lost without them!
 
