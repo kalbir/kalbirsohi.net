@@ -16,7 +16,7 @@
 title: This, that, here, & now
 email: kalbir@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Kalbir Sohi and I work with technology. CEO of <a href="https://www.drie.co">drie</a>. Doing some occasional writing.
+  I'm Kalbir Sohi and I work with technology. CEO of drie. Doing some occasional writing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kalbirsohi.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kalbir
