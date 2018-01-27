@@ -2,7 +2,7 @@
 layout: post
 title:  "Awesome lists"
 date:   2018-01-27 17:29:42 +0000
-categories: writing platform tech
+categories: writing open-source github awesome
 ---
 
 I found myself talking quite a lot about [awesome lists](https://github.com/sindresorhus/awesome) recently. These are community curated lists of useful stuff, hosted on GitHub. If that sounds a little vague, it is because there are so many awesome lists that it's hard to pin them down.
