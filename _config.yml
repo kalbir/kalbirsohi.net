@@ -25,6 +25,7 @@ github_username:  kalbir
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
+theme_color: yellow
 plugins:
   - jekyll-feed
 
