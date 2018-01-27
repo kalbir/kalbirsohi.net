@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Kalbir Sohi is the CEO of [drie](https://drie.co), a company that helps people use cloud infrastructure securely.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In the past, Kalbir did a PhD in Philosophy, was a product manager for government and built a [cloud platform](https://hmrcdigital.blog.gov.uk/2015/07/30/laying-the-foundations-for-hmrcs-digital-services/) that you probably use when you pay your taxes. He's worked with startups, large companies and governments in three continents helping them move to the cloud.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+He likes reading, _a lot_. 
