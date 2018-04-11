@@ -15,3 +15,11 @@ It is hosted using [GitHub pages](https://help.github.com/articles/using-jekyll-
 Create a new markdown file in `_posts` using the title format `YYYY-mm-dd-title-of-post.markdown` (or duplicate an existing one and change the name).
 
 Set the front matter (look at an existing post) and off you go.
+
+## Deploying the change
+
+```
+$ git add YYYY-mm-dd-title-of-post.markdown
+$ git commit
+$ git push origin gh-pages
+``
