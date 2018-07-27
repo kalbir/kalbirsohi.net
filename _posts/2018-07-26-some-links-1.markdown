@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Some links #1"
+date:   2018-07-26 21:36:49 +0000
+categories: writing links
+---
+
+Inspired by the way [Ben Terrett][1] does it I decided to collect links on my blog, what's the point of having a blog if I don't use it eh?
+
+I enjoyed the Guardian's series of short films on [inner city cricket][2]. The general vibe seems to be that clubs are finding it harder to get players, but the films knitted together some interesting themes on how class, race, geography and other factors play a role. Stand out bit was the discussion of whether South Asian coaches would make a difference to South Asian players coming through to the county game.
+
+The fashion conscious amongst us might recognise that what men are wearing at the moment is [all about Seinfeld][3].
+
+Love this job add for the Microsoft [dev tool design team][4].
+
+Don Norman, who wrote _The Design of Everyday Things_ wrote about how we have [sleepwalked into a technology centric world][5], rather than a people centric world. The result is that bad technology dominates our lives, we end up having to act like machines and suppress our positive human traits. Some of the examples in here were totally on point.
+
+I'm listening to this [Janelle Mon&aacute;e song][6] _a lot_ recently.
+
+That seems like a reasonable start.
+
+[1]: http://noisydecentgraphics.typepad.com
+[2]: https://www.theguardian.com/sport/ng-interactive/2018/jul/23/inner-city-cricket-what-happened-to-state-school-cricket
+[3]: http://putthison.com/everything-in-mens-style-right-now-is-about-seinfeld/
+[4]: https://microsoft.github.io/join-dev-design/
+[5]: https://www.fastcompany.com/90202172/why-bad-technology-dominates-our-lives-according-to-don-norman
+[6]: https://www.youtube.com/watch?v=mTjQq5rMlEY
