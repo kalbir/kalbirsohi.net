@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Some links #2"
+date:   2018-08-17 17:41:49 +0100
+categories: writing links
+---
+
+#### 6. [Awesome maintainers][6]
+
+I've been following [Nadia Eghbal's](https://nadiaeghbal.com/) work on open source economics, particularly looking at the people who maintain open source projects, for a few months. Her work is wide ranging and super interesting, and this is a great new project she has started (using the [awesome list]({% post_url 2018-01-27-awesome-lists %}) style that you know I love) to track people talking about the experience of being an open source maintainer. This is hugely valuable, reminding us that so much of our current software defined world is built on the back of the unstinting individuals who give up their own time and effort to keep these projects going.
+
+#### 7. [In defence of design thinking, which is terrible][7]
+
+Could we talk about design (web, UX, visual...) in the same way we talk about film or architecture? What if the people had a better appreciation of how design shapes our experiences, would it make the practice of design better? More relevant? Held to higher standards? Khoi Vinh asks whether design community needs to look outward to achieve its potential in shaping the way we interact with technology.
+
+File this with Mike Monteiro's maginificent [Design's Lost Generation](https://medium.com/@monteiro/designs-lost-generation-ac7289549017), as starting the movement of design professionals thinking about their wider role in building good, safe things for people (cf. software developers, machine learning etc etc).
+
+#### 8. [Who watches the men][8]
+
+Online graphic novel in the Watchmen style chronicling ten years into a dystopian Trump future. Hilary, Bernie, Obama and Zuckerberg all make an appearance. Brilliant and brutal in places.
+
+#### 9. [Writing is thinking][9]
+
+I like the whole of this thread from Steven Sinofsky but the bit at the end about why writing is hard was important to me. I struggle to put my words out into the world, I feel exposed and judged whenever I do it. So being in a place where you can share what you have written without anxiety is for me a key part of a culture of trust.
+
+#### 10. [In defence of Ms. Hill][10]
+
+I'm liking people making defences for some reason. Talib Kweli Greene (one half of [Black Star](https://en.wikipedia.org/wiki/Black_Star_(group))) reminds us that our musical heroes don't belong to us, so kick the sense of entitlement you have over them. It highlights how artists like Lauryn Hill--brilliant, unwilling to march to the standards of the music industry, black and a woman--experience anger and judgement for what they _aren't_ doing for us right now, rather than gratitude for the great things they have done.  I went back to listen to _The Miseducation of Lauryn Hill_ after reading this, which was an added bonus.
+
+[6]: https://github.com/nayafia/awesome-maintainers#readme
+[7]: https://www.subtraction.com/2018/04/02/in-defense-of-design-thinking-which-is-terrible/
+[8]: https://theoutline.com/post/929/who-watches-the-men-1
+[9]: https://twitter.com/stevesi/status/987028898880733184
+[10]: https://medium.com/cuepoint/in-defense-of-ms-hill-6fa84ba81d63
