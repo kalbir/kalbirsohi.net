@@ -24,7 +24,7 @@ github_username:  kalbir
 # Build settings
 markdown: kramdown
 remote_theme: kalbir/swiss
-theme_color: yellow
+theme_color: red
 plugins:
   - jekyll-feed
 
