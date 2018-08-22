@@ -19,15 +19,20 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm Kalbir Sohi and I work with technology. CEO of drie. Doing some occasional writing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kalbirsohi.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: kalbir
 github_username:  kalbir
 
 # Build settings
 markdown: kramdown
-remote_theme: broccolini/swiss
+remote_theme: kalbir/swiss
 theme_color: yellow
 plugins:
   - jekyll-feed
+
+
+social_link: twitter
+social_username: proustian
+google_analytics: UA-6242351-1
+repository: kalbir/kalbirsohi.net
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
