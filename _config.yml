@@ -32,7 +32,6 @@ plugins:
 social_link: twitter
 social_username: proustian
 google_analytics: UA-6242351-1
-repository: kalbir/kalbirsohi.net
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
