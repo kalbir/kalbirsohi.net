@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Some links #3"
+date:   2018-09-22 10:36:49 +0000
+categories: writing links
+---
+
+#### 11. [The return of Simone Biles and the costs of Gymnastics][11]
+
+Watching Simone Biles is incredible, she is an athletic genius. This article looks at an issue that I think about quite a lot in other contexts, I tend to call it "soft failure". US Gymnastics (as an organisation) is going through an incredibly challenging time in the wake of the systematic sexual abuse of gymnasts enabled by the structures in place in that organisation. What it needs to rebuild is a _hard failure_, a failure so epic that none of the things that came before it can be countenanced. A hard failure is what the sexual abuse scandal and information about the other psychological abuse that was going on in pursuit of gold medals should lead to.
+
+But Simone Biles's brilliance could be used as an excuse for a soft failure. An excuse for a few changes around the edges rather than whole scale rebuilding. Mistakes were made, but we produced Simone Biles so it can't all be bad. That would be both morally and institutionally wrong. It also is an enormous weight for Biles to bear. How things turn out will give us an idea of whether moral clarity can win out in our current times.  
+
+#### 12. [footballdata.org][12a] and [Football CLI][12b]
+
+I love the idea of making the data about football matches available as an API. You can then build cool things like a CLI client to show you what the scores are right now. Starts to get you thinking about how many data sets are just floating out there and could be made an open API (albeit with a decent amount of grunt work involved).
+
+#### 13. [A web of anxiety: accessibility for people with anxiety and panic disorders [Part 1]][13]
+
+The google authenticator countdown timer is a small source of constant stress for me. I've also suffered from panic attacks and depression and looked to the internet to help me in various ways during that time. Yet I've never been in a discussion of how a particular design might impact me in that frame of mind. So this guide really resonated with me.  
+
+#### 14. [Picular &emdash; Google, but for colors][14]
+
+A search engine for colours, very cool idea. I _think_ this is taking the google image results and doing some colour selections on what comes out.
+
+![Result of a colour search for the term "aix en provence"](/assets/colour-search-aix-en-provence.png)
+
+
+#### 15. [2 factor auth guide][15]
+
+Great, simple guide to 2 factor authentication from [Julia Ferraioli](https://twitter.com/juliaferraioli). Use whenever you are trying to get someone new to adopt it (though still speaks to how hard online security is for most users).
+
+#### 16. [Front end checklist][16]
+
+I've been thinking more and more about how do we share best practice in the software engineering community. I've been reading a few things on this so I expect there will be more links on the theme. This is one approach that I really like, similar to [awesome lists]({{ site.baseurl }}{% link _posts/2018-01-27-awesome-lists.markdown %}) &emdash; community driven and open source but with a bit of experience and opinion thrown in. Definitely the kind of resource we should make more of and a step towards codifying what we mean by good practice.
+
+
+[11]: https://www.newyorker.com/news/sporting-scene/the-return-of-simone-biles-and-the-costs-of-gymnastics
+[12a]: https://www.football-data.org/
+[12b]: https://github.com/ManrajGrover/football-cli
+[13]: https://developer.paciellogroup.com/blog/2018/08/a-web-of-anxiety-accessibility-for-people-with-anxiety-and-panic-disorders-part-1/
+[14]: https://picular.co/
+[15]: https://www.juliaferraioli.com/blog/2018/08/2fa-sms-you/
+[16]: https://github.com/thedaviddias/Front-End-Checklist#how-to-use
