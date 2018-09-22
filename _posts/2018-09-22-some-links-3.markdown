@@ -19,7 +19,7 @@ I love the idea of making the data about football matches available as an API. Y
 
 The google authenticator countdown timer is a small source of constant stress for me. I've also suffered from panic attacks and depression and looked to the internet to help me in various ways during that time. Yet I've never been in a discussion of how a particular design might impact me in that frame of mind. So this guide really resonated with me.  
 
-#### 14. [Picular &emdash; Google, but for colors][14]
+#### 14. [Picular &mdash; Google, but for colors][14]
 
 A search engine for colours, very cool idea. I _think_ this is taking the google image results and doing some colour selections on what comes out.
 
@@ -32,7 +32,7 @@ Great, simple guide to 2 factor authentication from [Julia Ferraioli](https://tw
 
 #### 16. [Front end checklist][16]
 
-I've been thinking more and more about how do we share best practice in the software engineering community. I've been reading a few things on this so I expect there will be more links on the theme. This is one approach that I really like, similar to [awesome lists]({{ site.baseurl }}{% link _posts/2018-01-27-awesome-lists.markdown %}) &emdash; community driven and open source but with a bit of experience and opinion thrown in. Definitely the kind of resource we should make more of and a step towards codifying what we mean by good practice.
+I've been thinking more and more about how do we share best practice in the software engineering community. I've been reading a few things on this so I expect there will be more links on the theme. This is one approach that I really like, similar to [awesome lists]({{ site.baseurl }}{% link _posts/2018-01-27-awesome-lists.markdown %}) &mdash; community driven and open source but with a bit of experience and opinion thrown in. Definitely the kind of resource we should make more of and a step towards codifying what we mean by good practice.
 
 
 [11]: https://www.newyorker.com/news/sporting-scene/the-return-of-simone-biles-and-the-costs-of-gymnastics
