@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Some links #5"
+date:   2018-11-12 12:36:49 +0000
+categories: writing links
+---
+
+#### 22. [How technology grows (a restatement of definite optimism)][22]
+
+A very interesting article, arguing that as a society we need to invest in larger technological endeavours and move our economy away from reliance on services. Needs some rereading.
+
+#### 23. [Why am I always the last to leave a party][23]
+
+I, like many, adored Elena Ferrante's Neapolitan books. Her Guardian columns are also brilliant. In these little vignettes of anxiety and humanity she slightly over thinks the routine, the humdrum, those little interactions that make up our everyday lives, and in the process open up different ways of seeing things.
+
+#### 24. [Visual studio code release notes][24]
+
+I'm writing this in Microsoft's Visual Studio Code editor (most people call it "VScode"). I'm always trying out the new shiny-ness but this one is sticking, in part because of the excellent ecosystem of plugins and themes that doesn't feel stale, like my former editor [Atom](https://atom.io/).
+
+I think another factor in making it such a good project is Microsoft's investment and attention to detail, as shown in these wonderful release notes for v1.28. Very well done and showing a real concern for users and making the product focus on what users need from it.
+
+#### 25. [How to attend or host tiny conferences][25]
+
+A guide to running a tiny conference, and the value that you get out of working things out in an intensive few days with a small group of peers.
+
+#### 26. [Open benches][26]
+
+I went for a walk with my parents and daughter at the old [Metropolitan Police Ground](http://www.chigwellsportsclub.com/gallerypage/details/2249/) in Chigwell. As we were walking around we were talking about all of the stories of the slightly sleepy and decaying grounds. There are little signs around the place remembering ex police officers who contributed to the club. There's even a mural depicting life in the London hinterlands.
+
+The people named on the benches and signs have a story that will be lost one day but it heartened me to think that something like Open Benches exists and might hold onto some of those stories. I'm going to add those Chigwell benches next time I go for a walk!
+
+#### 27. [The Gentlewoman library][27]
+
+<img alt="Beyoncé's Gentlewoman cover" src="/assets/beyonce-gentlewoman-cover.png" width="300" />
+
+[The Gentlewoman](https://thegentlewoman.co.uk/) is that fantastic magazine whose cover stares out at you from across WHSmith. The bold, bare typeface frames a portrait of someone you know to be an awesome woman&mdash;Allison Janney, Simone Biles, and Björk have been fabulous recent covers. I didn't realise that they also had a library of all of the interviews they have published. These are rich pickings, I got lost in the profiles for hours.
+
+#### 28. [Sewing That Ends Up in Orbit][28]
+
+An interview with the wonderful technician Hue Nguyen who sews things for NASA. The range of things she has been asked to do calls for a level of creativity and ingenuity that I'm envious of. This is an awesome job. It reminds me that my own grandmother sewed the soft tops of MG cars in the 70s. I come from a car loving family and so that was a real highlight, particularly for a recent immigrant, one of those stories that will span the generations.
+
+[22]: https://danwang.co/how-technology-grows/
+[23]: https://www.theguardian.com/books/2018/oct/20/elena-ferrante-why-am-i-always-the-last-to-leave-a-party
+[24]: https://code.visualstudio.com/updates/v1_28
+[25]: https://briancasel.com/tiny-conferences/
+[26]: https://openbenches.org/
+[27]: https://thegentlewoman.co.uk/library
+[28]: https://www.nytimes.com/2018/11/02/business/sewing-leidos-astronauts.html
