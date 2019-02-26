@@ -9,6 +9,8 @@ categories: writing links
 
 Watching Simone Biles is incredible, she is an athletic genius. This article looks at an issue that I think about quite a lot in other contexts, I tend to call it "soft failure". US Gymnastics (as an organisation) is going through an incredibly challenging time in the wake of the systematic sexual abuse of gymnasts enabled by the structures in place in that organisation. What it needs to rebuild is a _hard failure_, a failure so epic that none of the things that came before it can be countenanced. A hard failure is what the sexual abuse scandal and information about the other psychological abuse that was going on in pursuit of gold medals should lead to.
 
+<!--more-->
+
 But Simone Biles's brilliance could be used as an excuse for a soft failure. An excuse for a few changes around the edges rather than whole scale rebuilding. Mistakes were made, but we produced Simone Biles so it can't all be bad. That would be both morally and institutionally wrong. It also is an enormous weight for Biles to bear. How things turn out will give us an idea of whether moral clarity can win out in our current times.  
 
 #### 12. [footballdata.org][12a] and [Football CLI][12b]

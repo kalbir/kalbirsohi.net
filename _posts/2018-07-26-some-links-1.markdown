@@ -7,6 +7,8 @@ categories: writing links
 
 Inspired by the way [Ben Terrett][1] does it I decided to collect links on my blog, what's the point of having a blog if I don't use it eh?
 
+<!--more-->
+
 #### 1. Inner city cricket
 
 I enjoyed the Guardian's series of short films on [inner city cricket][2]. The general vibe seems to be that clubs are finding it harder to get players, but the films knitted together some interesting themes on how class, race, geography and other factors play a role. Stand out bit was the discussion of whether South Asian coaches would make a difference to South Asian players coming through to the county game.

@@ -9,6 +9,8 @@ categories: writing links
 
 I've been following [Nadia Eghbal's](https://nadiaeghbal.com/) work on open source economics, particularly looking at the people who maintain open source projects, for a few months. Her work is wide ranging and super interesting, and this is a great new project she has started (using the [awesome list]({% post_url 2018-01-27-awesome-lists %}) style that you know I love) to track people talking about the experience of being an open source maintainer. This is hugely valuable, reminding us that so much of our current software defined world is built on the back of the unstinting individuals who give up their own time and effort to keep these projects going.
 
+<!--more-->
+
 #### 7. [In defence of design thinking, which is terrible][7]
 
 Could we talk about design (web, UX, visual...) in the same way we talk about film or architecture? What if the people had a better appreciation of how design shapes our experiences, would it make the practice of design better? More relevant? Held to higher standards? Khoi Vinh asks whether design community needs to look outward to achieve its potential in shaping the way we interact with technology.
