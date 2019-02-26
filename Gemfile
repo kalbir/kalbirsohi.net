@@ -14,6 +14,7 @@ gem "jekyll", "~> 3.7.2"
 # gem "minima", "~> 2.0"
 # I'm using jekyll because I love this theme. That's the only reason really.
 gem "jekyll-swiss"
+gem "ace-theme"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

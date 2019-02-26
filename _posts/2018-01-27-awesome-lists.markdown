@@ -7,6 +7,8 @@ categories: writing open-source github awesome
 
 I found myself talking quite a lot about [awesome lists](https://github.com/sindresorhus/awesome) recently. These are community curated lists of useful stuff, hosted on GitHub. If that sounds a little vague, it is because there are so many awesome lists that it's hard to pin them down.
 
+<!--more-->
+
 The ones I come back to most regularly are the programming language ones. You can find them for pretty much every language (check out [Elixir](https://github.com/h4cc/awesome-elixir), [Ruby](https://github.com/markets/awesome-ruby), [R](https://github.com/qinwf/awesome-R), [Haskell](https://github.com/krispo/awesome-haskell),... you get the idea). They contain useful libraries, frameworks, documentation, courses, blog posts&#8212;pretty much anything you might find useful for the language, from beginner to expert.
 
 In the last year or so I've worked on projects in about 10 different programming languages, from [C][12] to [R][13]. It's so helpful use an awesome list to go an have a look at some key patterns, what the main web framework is, or what their equivalent of Ruby's [OmniAuth](https://github.com/omniauth/omniauth) is.

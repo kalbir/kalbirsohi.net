@@ -7,6 +7,8 @@ categories: writing tools
 
 I love the tool [loom](1). It's a chrome extension that lets you quickly record videos and share them on the internet. It will record your desktop, what you are saying and even your camera if you want it to.
 
+<!--more-->
+
 At [drie](2) we are a remote team and it has been super helpful for sharing information in a rich way. We have used it for a bunch of things including making demo videos, showing each other how new features work, doing reviews of bits of work (or code), and sharing messages with the whole team (kinda like an async all-hands). With our clients we've used it to record fortnightly show and tells and share them throughout the company, seeing almost 100 views in the days after the session in some cases.  
 
 The thing that it has been a total game changer for is bug reports and customer support. If we can get our user to make a quick video of an issue we get epically more data than the ticket back and forth questioning &mdash; and in a much quicker time. Often the video shows what the problem is in terms that the user would never have thought of, we see the little clue that e.g. they are logged into the wrong system or haven't updated a value somewhere &mdash; something that would have taken a ridiculous amount of time to work out in the past. Plus the user can record the video when it works for them, taking away the scheduling problem of a screenshare or live debugging session.

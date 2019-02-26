@@ -9,6 +9,8 @@ categories: writing platform tech
 
 Here at <a href="http://drie.co">drie</a> we think that platform as a service is genuinely effective as one tool in your toolkit for solving a wider business problem &#8212; how do I make the cost of IT change small.
 
+<!--more-->
+
 If you can make the cost of IT change small you can reduce risks in systems that you run and get interesting, novel and useful products in front of your customers quickly. You can test ideas without spending too much money and build on the ones that work.
 
 Understanding how platform as a service fits into this can be difficult, and no number of "IaaS vs PaaS vs SaaS" slidedecks are going to get you there. Here are 5 thought provoking, well written, articles that have shaped my thinking about platforms and how they can help you to achieve genuine value in delivering IT:
