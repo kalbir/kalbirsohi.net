@@ -27,4 +27,19 @@ with_header: true
   <hr class='half-width'/>
 {% endfor %}
 
-{% include pagination.html %}
+<!-- Pagination links -->
+<div class="pagination">
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">&larr; Older</a>
+  {% else %}
+    <span class="next ">&larr; Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Newer &rarr; 
+    </a>
+  {% else %}
+    <span class="previous">Newer &rarr;</span>
+  {% endif %}
+
+</div>
