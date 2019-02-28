@@ -17,7 +17,7 @@ title: Home
         <h2 class="f4 f3-m f2-l mw7 lh-title mb3 mt0 pt4"><a class="db blue no-underline underline-hover" href='{{ post.link }}'>{{ post.title }} &rarr;</a></h2>
         
       {% else %}
-        <h2 class="f4 f3-m f2-l mw7 lh-title mb3 mt0 pt4"><a class="db blue no-underline underline-hover" href='{{ site.baseurl }}{{ post.url }}/'>{{ post.title }}</a></h2>
+        <h2 class="f4 f3-m f2-l mw7 lh-title mb3 mt0 pt4"><a class="db blue no-underline underline-hover" href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a></h2>
         <time class="f6 ttu tracked gray">{{ post.date | date: '%B %-d, %Y' }}</time>
         
       {% endif %}
@@ -26,7 +26,7 @@ title: Home
         <div class="mw7 lh-copy">
           {{ post.excerpt }}
         </div>
-        <a class="f5 fw6 db black no-underline underline-hover" href='{{ site.baseurl }}{{ post.url }}/'>Continue reading &rarr;</a>
+        <a class="f5 fw6 db black no-underline underline-hover" href='{{ site.baseurl }}{{ post.url }}'>Continue reading &rarr;</a>
       {% else %}
       <div class="mw7 lh-copy">
         {{ post.content }}
