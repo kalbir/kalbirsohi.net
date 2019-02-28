@@ -1,45 +1,41 @@
 ---
 layout: default
 title: Home
-with_header: true
 ---
+  <div class="pa3 pa5-ns">
+    <header class="pa1 pa2-ns">
+      <h1 class="f3 f2-m f1-l">This, that, here &amp; now</h1>
+      <p class="lh-copy mw7">
+          I'm Kalbir Sohi and I work with technology. I'm doing some occasional writing.
+      </p>
 
-{% for post in paginator.posts %}
-  <article class='justify'>
-    {% if post.link %}
-      <h2 class='h3'><a href='{{ post.link }}'>{{ post.title }} &rarr;</a></h2>
-    {% else %}
-      <div class='mb2'>
-        <h2 class='m0'><a href='{{ site.baseurl }}{{ post.url }}/'>{{ post.title }}</a></h2>
-        <time class='grayish'>{{ post.date | date: '%B %-d, %Y' }}</time>
+      <p><a href="about">More about me.</a></p>
+    </header>
+    {% for post in site.posts %}
+      <article class="pa1 pa2-ns">
+      {% if post.link %}
+        <h2 class="f4 f3-m f2-l mw7 lh-title mb3 mt0 pt4"><a class="db blue no-underline underline-hover" href='{{ post.link }}'>{{ post.title }} &rarr;</a></h2>
+        
+      {% else %}
+        <h2 class="f4 f3-m f2-l mw7 lh-title mb3 mt0 pt4"><a class="db blue no-underline underline-hover" href='{{ site.baseurl }}{{ post.url }}/'>{{ post.title }}</a></h2>
+        <time class="f6 ttu tracked gray">{{ post.date | date: '%B %-d, %Y' }}</time>
+        
+      {% endif %}
+
+      {% if post.excerpt %}
+        <div class="mw7 lh-copy">
+          {{ post.excerpt }}
+        </div>
+        <a class="f5 fw6 db black no-underline underline-hover" href='{{ site.baseurl }}{{ post.url }}/'>Continue reading &rarr;</a>
+      {% else %}
+      <div class="mw7 lh-copy">
+        {{ post.content }}
       </div>
-    {% endif %}
-
-    {% if post.excerpt %}
-      {{ post.excerpt }}
-      <a href='{{ site.baseurl }}{{ post.url }}/'>Continue reading &rarr;</a>
-    {% else %}
-      {{ post.content }}
-    {% endif %}
-
-  </article>
-
-  <hr class='half-width'/>
-{% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">&larr; Older</a>
-  {% else %}
-    <span class="next ">&larr; Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Newer &rarr; 
-    </a>
-  {% else %}
-    <span class="previous">Newer &rarr;</span>
-  {% endif %}
-
+      {% endif %}
+    </article>
+      {% endfor %}
+    
+  </div>
+<!-- Pagination links? -->
 </div>
+

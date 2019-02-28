@@ -15,23 +15,23 @@ One of those "what if?" scenarios. Santi Cazorla was Arsenal's best player, the 
 
 A fantastic series of radio programmes by [Anne McElvoy](https://twitter.com/annemcelvoy) which trace the path of the British conservative movement from Edmund Burke to Margaret Thatcher. I hadn't previously understood the historical context of conservatism as a reaction to first the French revolution and then the industrial revolution, and the various strands that developed over the period. The programmes are so dense that I'm keying them up for a re-listen already but a couple of thoughts stand out from the first 5 episodes:
 
-1. There are a some interesting similarities between the political careers of Benjamin Disraeli and Boris Johnson. Disraeli was considerably more talented and flamboyant. He also had to overcome the huge prejudice of being Jewish in Victorian England, a world away from Boris's background. But the way that Disraeli moved from being a protector of the aristocracy (as part of the "Young England" movement) to a man of the people as he increased the suffrage is a story arc that you can see Boris trying to emulate. I'd bet that Johnson is acutely aware of how Disraeli made that change and uses it as source material for his own plans. 
+1. There are a some interesting similarities between the political careers of Benjamin Disraeli and Boris Johnson. Disraeli was considerably more talented and flamboyant. He also had to overcome the huge prejudice of being Jewish in Victorian England, a world away from Boris's background. But the way that Disraeli moved from being a protector of the aristocracy (as part of the "Young England" movement) to a man of the people as he increased the suffrage is a story arc that you can see Boris trying to emulate. I'd bet that Johnson is acutely aware of how Disraeli made that change and uses it as source material for his own plans.
    
-2. Something that surprised me is that Wordsworth is a recurring character in the episodes about the 1800s and John Ruskin gets [his own episode](https://www.bbc.co.uk/radio/play/b039d4bl). Both men championed an idea of good in society being linked to the continuity of place and traditional activities. This stood in contrast to what [Ruskin saw](http://www.victorianweb.org/authors/ruskin/traffic.html) in the rampant capitalism and liberalism of the industrial revolution; a loss of traditional craft and place that would lead to human society becoming less creative, less socially bound, and less connected with the things that made us human. The things that Wordsworth and Ruskin were responding are themes that return today, in an era of technology led change and unfettered money making. And many of the craft movements that are emerging, the growth of vegetarianism and veganism, the idealisation of "local", echo part of Ruskin's conservative thought. 
+2. Something that surprised me is that Wordsworth is a recurring character in the episodes about the 1800s and John Ruskin gets [his own episode](https://www.bbc.co.uk/radio/play/b039d4bl). Both men championed an idea of good in society being linked to the continuity of place and traditional activities. This stood in contrast to what [Ruskin saw](http://www.victorianweb.org/authors/ruskin/traffic.html) in the rampant capitalism and liberalism of the industrial revolution; a loss of traditional craft and place that would lead to human society becoming less creative, less socially bound, and less connected with the things that made us human. The things that Wordsworth and Ruskin were responding are themes that return today, in an era of technology led change and unfettered money making. And many of the craft movements that are emerging, the growth of vegetarianism and veganism, the idealisation of "local", echo part of Ruskin's conservative thought.
 
-So understanding the 19th century conservative movement gives us some grounds to think about our responses to the similar times we are facing now. There is a series on the history on [British liberalism](https://www.bbc.co.uk/programmes/b06t44pc) and one on [British socialism](https://www.bbc.co.uk/programmes/b09rzxh9) so I expect there will be even more parallels to draw! 
+So understanding the 19th century conservative movement gives us some grounds to think about our responses to the similar times we are facing now. There is a series on the history on [British liberalism](https://www.bbc.co.uk/programmes/b06t44pc) and one on [British socialism](https://www.bbc.co.uk/programmes/b09rzxh9) so I expect there will be even more parallels to draw!
 
 #### 19. [Software disenchantment][19]
 
 This has been doing the rounds a bit and headline is the nugget that Windows 95 was 50Mb, and the Android system now runs to over 6GB. This is another aspect of the theme of "what is quality in software engineering?" &mdash; it covers ethics, best practices, process. We don't have answers for any of this, at best we point at a growing body of blog posts or conference talks that present a valuable but fragmented and often contradictory perspective on the matter.
 
-How did other disciplines solve this problem? Or do they? Is there a standard way of building a bridge? How did we come to that? Something to I'm thinking about more and more.  
+How did other disciplines solve this problem? Or do they? Is there a standard way of building a bridge? How did we come to that? Something I'm thinking about more and more.
 
 #### 20. [Inside the head][20]
 
-This is what I thought the web was going to be like when I was doing front end and design in 2006. A list apart, Jason Santa Maria, Jessica Hische, Naz Hamid, Khoi Vinh. I felt people were pushing the boundaries of _design_ on the web and making a new format for storytelling.
+This is what I thought the web was going to be like when I was doing front end and design in 2006. _A list apart_, Jason Santa Maria, Jessica Hische, Naz Hamid, Khoi Vinh. I felt people were pushing the boundaries of _design_ on the web and making a new format for storytelling.
 
-The visual and interaction design makes it fun, exploring the poems like this. The poems themselves are great, in their confessional style and how real the language is. Would it work with weaker source material? Maybe not. 
+The visual and interaction design makes it fun, exploring the poems like this. The poems themselves are great, in their confessional style and how real the language is. Would it work with weaker source material? Maybe not.
 
 #### 21. [A softer world][21]
 
@@ -39,15 +39,15 @@ I'd forgotten about _A softer world_.
 
 A lot of them are guffawing one liners, split over three panels to better set up the punch lines. But as you click and click and click you see the topics that defined them; depression, crushes, self loathing, sex, suicide, love. Some of them totally break me up. Probably entirely different ones to the ones that broke me up the first time I read them, 10 years ago.
 
-This one is [Emily Horne's favourite](): [http://www.asofterworld.com/index.php?id=276](http://www.asofterworld.com/index.php?id=276)
+This one is [Emily Horne's favourite](http://www.asofterworld.com/index.php?id=276).
 
 These are some that I got to from a random number generator, I couldn't risk doing it sequentially as I would have lost a day or two...
 
-http://www.asofterworld.com/index.php?id=572
+[http://www.asofterworld.com/index.php?id=572](http://www.asofterworld.com/index.php?id=572)
 
-http://www.asofterworld.com/index.php?id=997
+[http://www.asofterworld.com/index.php?id=997](http://www.asofterworld.com/index.php?id=997)
 
-http://www.asofterworld.com/index.php?id=510
+[http://www.asofterworld.com/index.php?id=510](http://www.asofterworld.com/index.php?id=510)
 
 
 [17]: https://www.theguardian.com/football/2018/sep/07/santi-cazorla-villarreal-injury-arsenal-interview-sid-lowe

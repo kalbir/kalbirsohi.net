@@ -1,9 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    ace-theme (1.0.2)
-      jekyll (~> 3.2, >= 3.2.0)
-      jekyll-paginate (~> 1.1)
     activesupport (4.2.10)
       i18n (~> 0.7)
       minitest (~> 5.1)
@@ -33,9 +30,9 @@ GEM
     ffi (1.10.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
-    github-pages (196)
+    github-pages (197)
       activesupport (= 4.2.10)
-      github-pages-health-check (= 1.16.0)
+      github-pages-health-check (= 1.16.1)
       jekyll (= 3.7.4)
       jekyll-avatar (= 0.6.0)
       jekyll-coffeescript (= 1.1.1)
@@ -78,7 +75,7 @@ GEM
       nokogiri (>= 1.8.5, < 2.0)
       rouge (= 2.2.1)
       terminal-table (~> 1.4)
-    github-pages-health-check (1.16.0)
+    github-pages-health-check (1.16.1)
       addressable (~> 2.3)
       dnsruby (~> 1.60)
       octokit (~> 4.0)
@@ -245,11 +242,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  ace-theme
   github-pages
-  jekyll (~> 3.7.2)
   jekyll-feed (~> 0.6)
-  jekyll-swiss
   tzinfo-data
 
 BUNDLED WITH
