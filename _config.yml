@@ -1,31 +1,13 @@
 # Config 
 title: This, that, here, & now
-email: kalbir@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I'm Kalbir Sohi and I work with technology. CEO of drie. Doing some occasional writing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kalbirsohi.net" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  kalbir
 
 # Build settings
 markdown: kramdown
-# remote_theme: aliou/aces
-theme: ace-theme
-gems: [jekyll-paginate]
 paginate: 5
 paginate_path: '/:num'
 plugins:
   - jekyll-feed
+#  - jekyll-paginate
 excerpt_separator: <!--more-->
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
