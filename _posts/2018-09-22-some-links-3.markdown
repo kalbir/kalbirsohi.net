@@ -25,7 +25,7 @@ The google authenticator countdown timer is a small source of constant stress fo
 
 A search engine for colours, very cool idea. I _think_ this is taking the google image results and doing some colour selections on what comes out.
 
-![Result of a colour search for the term "aix en provence"](/assets/colour-search-aix-en-provence.png)
+![Result of a colour search for the term "aix en provence"](/assets/01-colour-search-aix-en-provence.png)
 
 
 #### 15. [2 factor auth guide][15]
