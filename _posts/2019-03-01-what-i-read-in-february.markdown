@@ -9,7 +9,7 @@ I've started to keep a small note of things I've read over the past few months a
 
 So here are some things I read in January and February. I'll mainly keep it to books and longer bits of writing (that I've enjoyed in the latter case). I'm a subscriber to the New Yorker magazine so that will turn up quite a lot (and I was going through quite a big backlog in Feb!).
 
-## January 2019
+<h2 class="f4 f3-m f3-l">January 2019</h2>
 
 ### Books
 
@@ -23,7 +23,7 @@ So here are some things I read in January and February. I'll mainly keep it to b
 
 - [Why Doctors Hate Their Computers][ny8] by Atul Gawande
 
-## February 2019
+<h2 class="f4 f3-m f3-l">February 2019</h2>
 
 ### Books
 
