@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Some links #6"
+date:   2019-05-01 17:00:49 +0000
+categories: writing links
+---
+
+I haven't done links in a while and I have a lot saved up so I'm going to do them in the style of [Ann Friedmann](https://www.annfriedman.com/weekly) and let you know some of what I've been reading about.
+
+<!--more-->
+
+The New York Times mapped [every building in America](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html). Children of immigrants are [taking over their family restaurants](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) and it is hard, and sometimes exciting. By [answering some questions](https://thedecider.app/) you can choose a better decision making strategy for the type of decision you are making. [How do we know when something is done?](https://99u.adobe.com/articles/60277/how-do-you-know-when-its-done) Barry Jenkins talks film-making with [Roy Williams](https://www.theguardian.com/film/2019/feb/09/barry-jenkins-when-you-climb-the-ladder-you-send-it-back-down) and [Greta Gerwig](https://a24films.com/notes/2018/02/episode-01-all-the-way-home-with-barry-jenkins-greta-gerwig) (podcast). [Jessie Frazelle](https://blog.jessfraz.com/), one of the outstanding software engineers of her generation, [tries out some other jobs](https://blog.jessfraz.com/post/government-medicine-capitalism). If you didn't know about [Doing Presentations](https://www.doingpresentations.com/)&mdash;the guide to effective presentations&mdash;well now you do and [it's got better](https://gilest.org/doing-presentations-again.html). Good tips on [making your writing sample stand out](https://medium.com/s/story/an-mfa-admissions-officer-on-making-your-writing-stand-out-2af00d71dd06) when you apply to an MFA degree. [Critical reviews of fonts](http://fontreviewjournal.com/windsor/). How machine learning language analysis [marks out African American Vernacular language](https://peopleofcolorintech.com/articles/how-automated-tools-discriminate-against-black-language/) as toxic. What employees say leaders should do [to build trust](https://m.signalvnoise.com/the-3-most-effective-ways-to-build-trust-as-a-leader/). What a [sauce man is](https://www.manrepeller.com/2019/02/how-to-spot-the-ideal-partner.html) and why we should all be looking to be with one. How USA Gymnastics is [still struggling to come to terms with the Larry Nasser scandal](https://www.theguardian.com/sport/2019/apr/24/15-months-on-from-larry-nassar-usa-gymnastics-struggles-to-find-its-way). Three professionals [playing a hundred kids at football](https://www.youtube.com/watch?v=BO69r4ugSDQ) (video). Listening to rap [from a bunch of different countries](https://foreignrap.com/).
+
+That was fun. Maybe I'll do it that way again.
