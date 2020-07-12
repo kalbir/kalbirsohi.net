@@ -6,3 +6,12 @@
 /*! I can't work out how to make a general pattern for links without this line. The `color` is a colour from Tachyons.*/
 a {text-decoration: none; color: #357edd;}a:hover {text-decoration: underline;}
 
+h1, h2, h3, h4, h5 {
+  font-family: 'Lora', serif;
+}
+
+main {
+  font-family: 'Karla', sans-serif;
+  font-size: 1.1em;
+}
+
