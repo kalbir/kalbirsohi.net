@@ -17,7 +17,7 @@ Understanding how platform as a service fits into this can be difficult, and no 
 
 ## 1. <a href="http://pmarchive.com/three_kinds_of_platforms_you_meet_on_the_internet.html">3 kinds of platform you meet on the internet</a>
 
-This was recommended to me by <a href="https://twitter.com/ejhp">Etienne Pollard</a> (along with <a href="https://plus.google.com/+RipRowan/posts/eVeouesvaVX">Steve Yegges's rant</a>) as my starting point for thinking about the technical underpinnings of digital services. Marc Andreessen sets out a clear statement of what a platform is, for those of us sufficiently opinionated to care:
+This was recommended to me by <a href="https://twitter.com/ejhp">Etienne Pollard</a> (along with <a href="https://gist.github.com/kislayverma/d48b84db1ac5d737715e8319bd4dd368">Steve Yegges's rant</a>) as my starting point for thinking about the technical underpinnings of digital services. Marc Andreessen sets out a clear statement of what a platform is, for those of us sufficiently opinionated to care:
 
 > If you can program it, then it's a platform. If you can't, then it's not.
 
